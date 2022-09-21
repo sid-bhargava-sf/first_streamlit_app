@@ -42,7 +42,7 @@ except URLError as e:
      streamlit.error()
 
 
-streamlit.write('The user entered ', fruit_choice)
+#streamlit.write('The user entered ', fruit_choice)
 
 # streamlit.text(fruityvice_response.json()) #just write the data to screen
 # normalize the json data
